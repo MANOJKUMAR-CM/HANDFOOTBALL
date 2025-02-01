@@ -1,28 +1,42 @@
-# HANDFOOTBALL
+# HANDFOOTBALL - GAME RULES & INSTRUCTIONS
 
-The player must first pass, cross and then shoot the ball for scoring a goal.
+Welcome to HANDFOOTBALL, an exciting turn-based game where players must pass, cross, and shoot to score a goal. The first player to score wins the game!
 
-For passing, the player must put any number from 1 to 3, three times.
+## 🎮 How to Play
 
-For crossing, the player must either put 4 to 6, one time.
+Each turn, a player must perform the following actions in order:
 
-For scoring a goal, the player must either put 7 or 8, one time.
+1. **Pass the Ball (pa)** - Choose any number between **1 and 3**, three times.
+2. **Cross the Ball (c)** - Choose a number between **4 and 6**, once.
+3. **Shoot the Ball (s)** - Choose either **7 or 8**, once.
 
-computer and vice-versa.
+If a goal is scored, possession automatically switches to the opponent.
 
-After the goal is scored by anyone, the ball will be automatically given to the opponent.
+## ⚠️ Game Rules
 
-If the player puts the wrong number while passing, crossing or shooting, penalty will be given to the opponent.
+- If a player enters an incorrect number during passing, crossing, or shooting, the opponent is awarded a **penalty**.
+- **Penalty Kick (pe)** - The player taking the penalty must enter either **9 or 10** to score a goal.
+- The first player to score a goal wins the game!
+- If you want to quit at any time, type **'111'**.
 
-In case of a penalty, the player must put 9 or 10 to score a goal.
+## 🔄 Turn-Based Gameplay
 
-Whoever scores the first goal will be the winner.
+- Players take turns attempting to score a goal.
+- After a goal is scored (whether from regular play or a penalty), the ball is automatically given to the opponent.
 
-"IF YOU WANT TO QUIT AT ANY TIME IN THE GAME, TYPE '111'.
+## 🏆 Winning Condition
 
-NOTE:- (pa)=pass.
-(c) =cross.
-(s) =shoot.
-(pe)=penalty
+The **first player to score a goal** wins the game!
 
-ALL THE BEST!!!!!.
+## ✅ Example Playthrough
+
+1. Player A passes (e.g., `1, 2, 3`)
+2. Player A crosses (e.g., `5`)
+3. Player A shoots (e.g., `8`)
+4. If successful, Player A wins!
+5. If Player A makes a mistake, Player B gets a penalty opportunity.
+
+### 🏁 Get Ready and Play Fair!
+
+All the best! 🚀
+
